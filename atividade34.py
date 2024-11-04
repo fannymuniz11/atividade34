@@ -12,4 +12,3 @@ print("Agora vamos falar a indice")
 
 for i, numero in enumerate(lista):
     print("A indice {} = a o numero {}".format(i,numero))
-    
